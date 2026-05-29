@@ -6,7 +6,7 @@
 
 An immersive, futuristic, in-browser Augmented Reality drawing application that turns your hand into a digital paintbrush. Using cutting-edge computer vision, **Air Draw** tracks your hand landmarks in real-time, allowing you to paint, hover, erase, and manipulate strokes directly in the air without touching your device.
 
-✨ **[Live Demo — Draw in Air Now!](https://withsoumen.github.io/Darling/)** ✨
+✨ **[Live Demo — Draw in Air Now!](https://withsoumen.github.io/AirDraw/)** ✨
 
 ---
 
