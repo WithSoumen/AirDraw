@@ -1,12 +1,12 @@
 # 🌌 Air Draw — Gesture-Powered Air Canvas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-00f5ff.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Web-Ready](https://img.shields.io/badge/Platform-Web%20%2F%20AR-ff2df7.svg?style=for-the-badge)](https://withsoumen.github.io/Darling/)
+[![Web-Ready](https://img.shields.io/badge/Platform-Web%20%2F%20AR-ff2df7.svg?style=for-the-badge)](https://heyysizzii.github.io/Darling/)
 [![Built With](https://img.shields.io/badge/Tech-MediaPipe%20%2B%20HTML5-ffe600.svg?style=for-the-badge)]()
 
 An immersive, futuristic, in-browser Augmented Reality drawing application that turns your hand into a digital paintbrush. Using cutting-edge computer vision, **Air Draw** tracks your hand landmarks in real-time, allowing you to paint, hover, erase, and manipulate strokes directly in the air without touching your device.
 
-✨ **[Live Demo — Draw in Air Now!](https://withsoumen.github.io/AirDraw/)** ✨
+✨ **[Live Demo — Draw in Air Now!](https://heyysizzii.github.io/AirDraw/)** ✨
 
 ---
 
